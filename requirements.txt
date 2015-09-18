@@ -1,0 +1,4 @@
+behave===1.2.5
+PyHamcrest==1.8.3
+selenium==2.46.1
+pytest-allure-adaptor==1.6.7

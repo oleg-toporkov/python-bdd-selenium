@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Logs
+logs/
+
+# Idea files
+.idea/
+
+# Config file
+config.ini
